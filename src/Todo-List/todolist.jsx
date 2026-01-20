@@ -30,7 +30,7 @@ function TodoList() {
 
   return (
     <div className="container mt-5">
-      <div className="card shadow p-4 ">
+      <div className="card shadow p-3 ">
         <h2 className="text-center mb-4 text-primary">My Todo List</h2>
 
         <div className="input-group mb-3">
